@@ -1,11 +1,5 @@
 # tuplutv
 
-<p align="left">
-  <img src="tuplutv/AppIcon.icon/Assets/tv-svgrepo-com.svg" alt="tuplutv App Icon" width="84" />
-</p>
-
-## tuplutv
-
 **A simple, fast, and modern IPTV experience for macOS.**
 
 ---
