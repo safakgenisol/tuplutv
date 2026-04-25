@@ -5,16 +5,10 @@
 ---
 
 ## Screenshots
-
+⚠️The films shown in the images were created using AI and serve as examples.
 <p align="left">
-  <img src="resımler/Ekran%20Resmi%202026-04-25%2022.13.23.png" alt="Home screen" width="30%" />
-  <img src="resımler/Ekran%20Resmi%202026-04-25%2022.13.43.png" alt="List view" width="30%" />
-  <img src="resımler/Ekran%20Resmi%202026-04-25%2022.14.01.png" alt="Detail screen" width="30%" />
-</p>
-
-<p align="left">
-  <img src="resımler/Ekran%20Resmi%202026-04-25%2022.22.41.png" alt="Player experience" width="30%" />
-  <img src="resımler/Ekran%20Resmi%202026-04-25%2022.22.51.png" alt="Settings" width="30%" />
+  <img src="resımler/ornek1" alt="Home screen" width="30%" />
+  <img src="resımler/ornek2" alt="List view" width="30%" />
 </p>
 
 ---
