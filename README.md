@@ -19,6 +19,9 @@
 
 ---
 
+- ⚠️macOS 26 tahoe minimum system requirements
+
+---
 ## Features
 
 - Load and manage IPTV playlists
