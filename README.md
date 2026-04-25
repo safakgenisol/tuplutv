@@ -7,8 +7,8 @@
 ## Screenshots
 ⚠️The films shown in the images were created using AI and serve as examples.
 <p align="left">
-  <img src="resımler/ornek1.png" alt="Home screen" width="30%" />
-  <img src="resımler/ornek2.png" alt="List view" width="30%" />
+  <img src="resımler/ornek1.png" alt="Home screen" width="50%" />
+  <img src="resımler/ornek2.png" alt="List view" width="50%" />
 </p>
 
 ---
