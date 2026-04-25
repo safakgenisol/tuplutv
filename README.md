@@ -37,7 +37,7 @@ You need to add your own Xtream or M3U sources.
 ## Legal Notes
 
 ### TMDB
-
+The TMBD API is used to provide movie and TV show metadata
 This product uses the TMDB API but is not endorsed or certified by TMDB.
 
 ### VLC / VLCKit
