@@ -32,7 +32,12 @@
 
 
 ---
+⚠️
+The app does not provide any movie or TV content.
+As the developer, I cannot and will not provide content sources.
+You need to add your own Xtream or M3U sources.
 
+---
 ## Legal Notes
 
 ### TMDB
