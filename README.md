@@ -3,7 +3,7 @@
 **A simple, fast, and modern IPTV experience for macOS.**
 
 ## Important
--⚠️Please send feedback to my email. If you can include your device details, screenshots from the app, and your feedback in that message, I’ll be able to go into much more depth.
+-⚠️Please send feedback to my email. It would help me most if you could include: your device details, screenshots from the app, and your feedback—but this isn’t a rule. Anyone can share thoughts however they like; it’s just easier for me to understand when it’s structured that way.
 
 ---
 
