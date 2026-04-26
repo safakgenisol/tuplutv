@@ -30,7 +30,7 @@ My email is in the app under Settings → About
 -Ship on the App Store.
 The main reason I’m not on the App Store yet is that I can’t afford the $99/year fee right now; money’s a bit tight. If I do publish there, the app will be fully free, with an optional in-app purchase—but not like a lot of other App Store apps: it would be entirely the user’s choice. People who don’t pay won’t face any restrictions or time limits.
 
--After an App Store release, bigger goals: a version that works end-to-end across the Apple ecosystem—Apple TV, Apple Watch, iPhone, and so on. For me that’s still a long way off—a big goal, or a dream, whatever you want to call it.
+-After an App Store release, bigger goals: a version that works end-to-end across the Apple ecosystem—Apple TV, Apple Watch, iPhone, and so on. For me that’s still a long way off—a big goal, or a dream
 
 
 
