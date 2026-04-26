@@ -24,7 +24,7 @@ My email is in the app under Settings → About
 
 ---
 
-## My future plans and dreams
+## My Future Plans and Dreams
 -Get the app to a place everyone can love. That’s a very hard goal, but I built this app for everyone—matching what people want is my top priority.
 
 -Ship on the App Store.
