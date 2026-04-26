@@ -5,6 +5,7 @@
 ## Important
 -⚠️Please send feedback to my email. It would help me most if you could include: your device details, screenshots from the app, and your feedback—but this isn’t a rule. Anyone can share thoughts however they like; it’s just easier for me to understand when it’s structured that way.
 
+My email is in the app under Settings → About
 ---
 
 ## Screenshots
