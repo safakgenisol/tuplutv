@@ -28,7 +28,7 @@ My email is in the app under Settings → About
 -Get the app to a place everyone can love. That’s a very hard goal, but I built this app for everyone—matching what people want is my top priority.
 
 -Ship on the App Store.
-The main reason I’m not on the App Store yet is that I can’t afford the $99/year fee right now; money’s a bit tight. If I do publish there, the app will be fully free, with an optional in-app purchase—but not like a lot of other App Store apps: it would be entirely the user’s choice. People who don’t pay won’t face any restrictions or time limits. That was one of the core reasons I made the app: so many IPTV apps on the App Store ask for pointless, silly fees. I’m not blaming anyone or calling anyone out—that’s just my personal take.
+Ship on the App Store. The main reason I’m not on the App Store yet is that I can’t afford the $99/year fee right now; money’s a bit tight. If I do publish there, the app will be fully free, with an optional in-app purchase—but not like a lot of other App Store apps: it would be entirely the user’s choice. People who don’t pay won’t face any restrictions or time limits.
 
 -After an App Store release, bigger goals: a version that works end-to-end across the Apple ecosystem—Apple TV, Apple Watch, iPhone, and so on. For me that’s still a long way off—a big goal, or a dream, whatever you want to call it.
 
