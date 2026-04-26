@@ -3,14 +3,14 @@
 **A simple, fast, and modern IPTV experience for macOS.**
 
 ## Important
--⚠️Please send feedback to my email. It would help me most if you could include: your device details, screenshots from the app, and your feedback—but this isn’t a rule. Anyone can share thoughts however they like; it’s just easier for me to understand when it’s structured that way.
+-⚠️ Please send feedback to my email. It would help me most if you could include: your device details, screenshots from the app, and your feedback—but this isn’t a rule. Anyone can share thoughts however they like; it’s just easier for me to understand when it’s structured that way.
 
 My email is in the app under Settings → About
 
 ---
 
 ## Screenshots
-⚠️The films shown in the images were created using AI and serve as examples.
+⚠️ The films shown in the images were created using AI and serve as examples.
 <p align="left">
     Home
   <img src="resımler/ornek2.png" alt="List view" width="100%" />
@@ -20,7 +20,7 @@ My email is in the app under Settings → About
 
 ---
 
-- ⚠️macOS 26 tahoe minimum system requirements
+- ⚠️ macOS 26 tahoe minimum system requirements
 
 ---
 
