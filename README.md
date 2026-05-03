@@ -18,7 +18,9 @@
 ---
 
 - ⚠️ macOS 26 tahoe minimum system requirements
+  
 -Supported Languages: Turkish, English, Spanish
+
 ---
 
 ## My Future Plans and Dreams
