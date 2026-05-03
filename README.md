@@ -11,6 +11,7 @@ My email is in the app under Settings → About
 
 ## Screenshots
 ⚠️ The films shown in the images were created using AI and serve as examples.
+⚠️The current images may differ from those in the latest version of the app (version 0.2.0)
 <p align="left">
     Home
   <img src="resımler/ornek2.png" alt="List view" width="100%" />
@@ -21,7 +22,7 @@ My email is in the app under Settings → About
 ---
 
 - ⚠️ macOS 26 tahoe minimum system requirements
-
+-Supported Languages: Turkish, English, Spanish
 ---
 
 ## My Future Plans and Dreams
