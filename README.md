@@ -2,11 +2,6 @@
 
 **A simple, fast, and modern IPTV experience for macOS.**
 
-## Important
--⚠️ Please send feedback to my email. It would help me most if you could include: your device details, screenshots from the app, and your feedback—but this isn’t a rule. Anyone can share thoughts however they like; it’s just easier for me to understand when it’s structured that way.
-
-My email is in the app under Settings → About
-
 ---
 
 ## Screenshots
@@ -52,6 +47,13 @@ The main reason I’m not on the App Store yet is that I can’t afford the $99/
 The app does not provide any movie or TV content.
 As the developer, I cannot and will not provide content sources.
 You need to add your own Xtream or M3U sources.
+
+---
+
+## Important
+-⚠️ Please send feedback to my email. It would help me most if you could include: your device details, screenshots from the app, and your feedback—but this isn’t a rule. Anyone can share thoughts however they like; it’s just easier for me to understand when it’s structured that way.
+
+My email is in the app under Settings → About
 
 ---
 ## Legal Notes
