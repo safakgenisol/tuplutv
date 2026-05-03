@@ -6,6 +6,7 @@
 
 ## Screenshots
 ⚠️ The films shown in the images were created using AI and serve as examples.
+
 ⚠️The current images may differ from those in the latest version of the app (version 0.2.0)
 <p align="left">
     Home
