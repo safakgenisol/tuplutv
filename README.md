@@ -7,13 +7,76 @@
 ## Screenshots
 ⚠️ The films shown in the images were created using AI and serve as examples.
 
-⚠️The current images may differ from those in the latest version of the app (version 0.2.0)
-<p align="left">
-    Home
-  <img src="resımler/ornek2.png" alt="List view" width="100%" />
-  Movie details page
-  <img src="resımler/ornek1.png" alt="Home screen" width="100%" />
-</p>
+⚠️The current images may differ from those in the latest version of the app (version 0.5.0)
+<table>
+  <tr>
+    <td width="50%">
+      <img src="docs/screenshots/01_anasayfa.png" alt="Anasayfa" width="100%"/>
+      <br/><sub>Anasayfa</sub>
+    </td>
+    <td width="50%">
+      <img src="docs/screenshots/02_film_detay_onerilerle.png" alt="Film detay — öneriler" width="100%"/>
+      <br/><sub>Film detay — öneriler</sub>
+    </td>
+  </tr>
+  <tr>
+    <td width="50%">
+      <img src="docs/screenshots/03_film_detay_sayfasi.png" alt="Film detay" width="100%"/>
+      <br/><sub>Film detay</sub>
+    </td>
+    <td width="50%">
+      <img src="docs/screenshots/04_canli_tv.png" alt="Canlı TV" width="100%"/>
+      <br/><sub>Canlı TV</sub>
+    </td>
+  </tr>
+  <tr>
+    <td width="50%">
+      <img src="docs/screenshots/05_filmler_sayfasi.png" alt="Filmler" width="100%"/>
+      <br/><sub>Filmler</sub>
+    </td>
+    <td width="50%">
+      <img src="docs/screenshots/06_diziler_sayfasi.png" alt="Diziler" width="100%"/>
+      <br/><sub>Diziler</sub>
+    </td>
+  </tr>
+  <tr>
+    <td width="50%">
+      <img src="docs/screenshots/07_playlist_olusturma.png" alt="Playlist oluşturma" width="100%"/>
+      <br/><sub>Playlist oluşturma</sub>
+    </td>
+    <td width="50%">
+      <img src="docs/screenshots/08_film_detay_ilkbahar.png" alt="Film detay — İlkbahar" width="100%"/>
+      <br/><sub>Film detay — İlkbahar</sub>
+    </td>
+  </tr>
+  <tr>
+    <td width="50%">
+      <img src="docs/screenshots/09_playlistler_sayfasi.png" alt="Playlistler" width="100%"/>
+      <br/><sub>Playlistler</sub>
+    </td>
+    <td width="50%">
+      <img src="docs/screenshots/10_istatistikler_sayfasi.png" alt="İstatistikler" width="100%"/>
+      <br/><sub>İstatistikler</sub>
+    </td>
+  </tr>
+  <tr>
+    <td width="50%">
+      <img src="docs/screenshots/11_dizi_detay_bolumler.png" alt="Dizi detay — bölümler" width="100%"/>
+      <br/><sub>Dizi detay — bölümler</sub>
+    </td>
+    <td width="50%">
+      <img src="docs/screenshots/12_dizi_detay_sayfasi.png" alt="Dizi detay" width="100%"/>
+      <br/><sub>Dizi detay</sub>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2" align="center">
+      <img src="docs/screenshots/13_dizi_bolum_puanlari.png" alt="Dizi bölüm puanları" width="50%"/>
+      <br/><sub>Dizi bölüm puanları</sub>
+    </td>
+  </tr>
+</table>
+
 
 ---
 
