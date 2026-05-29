@@ -9,73 +9,75 @@
 
 ⚠️The current images may differ from those in the latest version of the app (version 0.5.0)
 <table>
+ <table>
   <tr>
     <td width="50%">
-      <img src="resimler/01_anasayfa.png" alt="Home" width="100%"/>
+      <img src="resımler/01_anasayfa.png" alt="Home" width="100%"/>
       <br/><sub>Home</sub>
     </td>
     <td width="50%">
-      <img src="resimler/02_film_detay_onerilerle.png" alt="Movie detail with recommendations" width="100%"/>
+      <img src="resımler/02_film_detay_onerilerle.png" alt="Movie detail with recommendations" width="100%"/>
       <br/><sub>Movie detail with recommendations</sub>
     </td>
   </tr>
   <tr>
     <td width="50%">
-      <img src="resimler/03_film_detay_sayfasi.png" alt="Movie detail" width="100%"/>
+      <img src="resımler/03_film_detay_sayfasi.png" alt="Movie detail" width="100%"/>
       <br/><sub>Movie detail</sub>
     </td>
     <td width="50%">
-      <img src="resimler/04_canli_tv.png" alt="Live TV" width="100%"/>
+      <img src="resımler/04_canli_tv.png" alt="Live TV" width="100%"/>
       <br/><sub>Live TV</sub>
     </td>
   </tr>
   <tr>
     <td width="50%">
-      <img src="resimler/05_filmler_sayfasi.png" alt="Movies" width="100%"/>
+      <img src="resımler/05_filmler_sayfasi.png" alt="Movies" width="100%"/>
       <br/><sub>Movies</sub>
     </td>
     <td width="50%">
-      <img src="resimler/06_diziler_sayfasi.png" alt="Series" width="100%"/>
+      <img src="resımler/06_diziler_sayfasi.png" alt="Series" width="100%"/>
       <br/><sub>Series</sub>
     </td>
   </tr>
   <tr>
     <td width="50%">
-      <img src="resimler/07_playlist_olusturma.png" alt="Create playlist" width="100%"/>
+      <img src="resımler/07_playlist_olusturma.png" alt="Create playlist" width="100%"/>
       <br/><sub>Create playlist</sub>
     </td>
     <td width="50%">
-      <img src="resimler/08_film_detay_ilkbahar.png" alt="Movie detail — Ilkbahar" width="100%"/>
+      <img src="resımler/08_film_detay_ilkbahar.png" alt="Movie detail — Ilkbahar" width="100%"/>
       <br/><sub>Movie detail — Ilkbahar</sub>
     </td>
   </tr>
   <tr>
     <td width="50%">
-      <img src="resimler/09_playlistler_sayfasi.png" alt="Playlists" width="100%"/>
+      <img src="resımler/09_playlistler_sayfasi.png" alt="Playlists" width="100%"/>
       <br/><sub>Playlists</sub>
     </td>
     <td width="50%">
-      <img src="resimler/10_istatistikler_sayfasi.png" alt="Statistics" width="100%"/>
+      <img src="resımler/10_istatistikler_sayfasi.png" alt="Statistics" width="100%"/>
       <br/><sub>Statistics</sub>
     </td>
   </tr>
   <tr>
     <td width="50%">
-      <img src="resimler/11_dizi_detay_bolumler.png" alt="Series detail — episodes" width="100%"/>
+      <img src="resımler/11_dizi_detay_bolumler.png" alt="Series detail — episodes" width="100%"/>
       <br/><sub>Series detail — episodes</sub>
     </td>
     <td width="50%">
-      <img src="resimler/12_dizi_detay_sayfasi.png" alt="Series detail" width="100%"/>
+      <img src="resımler/12_dizi_detay_sayfasi.png" alt="Series detail" width="100%"/>
       <br/><sub>Series detail</sub>
     </td>
   </tr>
   <tr>
     <td colspan="2" align="center">
-      <img src="resimler/13_dizi_bolum_puanlari.png" alt="Episode ratings" width="50%"/>
+      <img src="resımler/13_dizi_bolum_puanlari.png" alt="Episode ratings" width="50%"/>
       <br/><sub>Episode ratings</sub>
     </td>
   </tr>
 </table>
+
 
 
 
