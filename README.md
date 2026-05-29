@@ -100,16 +100,74 @@ The main reason I’m not on the App Store yet is that I can’t afford the $99/
 
 
 ---
+## Future
 
+### Playlists & sources
+- Add and manage multiple IPTV sources (M3U URL and Xtream API)
+- Organize sources with custom display names and emoji icons
+- Automatic catalog sync with configurable refresh intervals
+- On-disk catalog cache for faster startup and offline browsing
+- Support for multiple sources at once with per-source filtering
 
-## Features
+### Home & browsing
+- Home screen with Movie of the Day, category shortcuts, and recently watched shelves
+- Dedicated Movies and Series libraries grouped by genre/category
+- TMDB-powered trending today shelves on the home page
+- Full-text search across live channels, movies, and series
+- Search scope filters and collapsible result sections
+- Custom category management — hide, reorder, and create your own groups
+- Cinematic media detail pages with backdrop art, cast, synopsis, and metadata
+- TMDB enrichment for posters, descriptions, and extra artwork
+- IMDb ratings on posters, detail screens, and statistics
+- Movie recommendations on detail pages
+- Series detail with season/episode lists, thumbnails, and per-episode ratings
+- Episode ratings heatmap — visual IMDb score grid across all seasons
+- Optional animated backdrop preview on detail pages
 
-- Load and manage IPTV playlists
-- Smooth video playback experience
-- Clean and focused macOS interface
-- Content browsing and media detail screens
-- Modern SwiftUI architecture optimized for native performance
+### Live TV
+- Live channel browser with logos and now-playing info
+- Electronic Program Guide (EPG) for Xtream-compatible sources
+- Floating live TV remote panel with keyboard shortcuts
+- Channel picker and quick channel switching
+- Channel zapping visual effect (optional)
+- Jump from home or search directly into a live channel
 
+### Playback
+- Built-in player with native and VLC engine options
+- Smooth streaming playback for live TV, movies, and episodes
+- Fullscreen mode with cinematic header and stream info
+- Picture-in-Picture (PiP) support
+- Resume watch progress for movies and series episodes
+- Preferred subtitle and audio language selection
+- Customizable subtitle appearance (size, color, background)
+- Global volume control and audio output device selection
+- In-player episode panel for series binge-watching
+- Download and play offline from the detail screen or episode list
+
+### Personal library
+- Favorites for quick access to saved titles
+- Custom movie playlists — drag posters to build lists and play them back
+- Watched history tracking
+- Download manager for movies and series episodes
+- Offline mode — watch downloaded content without network access
+- Download queue with progress, cancel, and Finder integration
+
+### Statistics
+- Usage dashboard with time spent in app, movies, series, and live TV
+- Track opened-but-not-watched, completed movies, episodes, and series
+- Most-played movies and longest-watched live channels
+- Time-by-genre breakdown
+- Watched-by-IMDb-score chart
+- Filter stats by playlist source or view all sources combined
+
+### Appearance & settings
+- Clean, focused macOS interface built with SwiftUI
+- Light, dark, and system theme support
+- Dynamic detail page coloring from poster/backdrop art
+- Sidebar or bottom dock navigation layout
+- App language: English, Turkish, Spanish, and French
+- Cache management and storage overview
+- Built-in update checker
 
 ---
 ⚠️
