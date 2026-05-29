@@ -11,21 +11,21 @@
 <table>
   <tr>
     <td width="50%">
-      <img src="docs/screenshots/01_anasayfa.png" alt="Anasayfa" width="100%"/>
+      <img src="resımler/01_anasayfa.png" alt="Anasayfa" width="100%"/>
       <br/><sub>Anasayfa</sub>
     </td>
     <td width="50%">
-      <img src="docs/screenshots/02_film_detay_onerilerle.png" alt="Film detay — öneriler" width="100%"/>
+      <img src="resımler02_film_detay_onerilerle.png" alt="Film detay — öneriler" width="100%"/>
       <br/><sub>Film detay — öneriler</sub>
     </td>
   </tr>
   <tr>
     <td width="50%">
-      <img src="docs/screenshots/03_film_detay_sayfasi.png" alt="Film detay" width="100%"/>
+      <img src="resımler/03_film_detay_sayfasi.png" alt="Film detay" width="100%"/>
       <br/><sub>Film detay</sub>
     </td>
     <td width="50%">
-      <img src="docs/screenshots/04_canli_tv.png" alt="Canlı TV" width="100%"/>
+      <img src="resımler/04_canli_tv.png" alt="Canlı TV" width="100%"/>
       <br/><sub>Canlı TV</sub>
     </td>
   </tr>
