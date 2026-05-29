@@ -11,71 +11,72 @@
 <table>
   <tr>
     <td width="50%">
-      <img src="resımler/01_anasayfa.png" alt="Anasayfa" width="100%"/>
-      <br/><sub>Anasayfa</sub>
+      <img src="resimler/01_anasayfa.png" alt="Home" width="100%"/>
+      <br/><sub>Home</sub>
     </td>
     <td width="50%">
-      <img src="resımler02_film_detay_onerilerle.png" alt="Film detay — öneriler" width="100%"/>
-      <br/><sub>Film detay — öneriler</sub>
-    </td>
-  </tr>
-  <tr>
-    <td width="50%">
-      <img src="resımler/03_film_detay_sayfasi.png" alt="Film detay" width="100%"/>
-      <br/><sub>Film detay</sub>
-    </td>
-    <td width="50%">
-      <img src="resımler/04_canli_tv.png" alt="Canlı TV" width="100%"/>
-      <br/><sub>Canlı TV</sub>
+      <img src="resimler/02_film_detay_onerilerle.png" alt="Movie detail with recommendations" width="100%"/>
+      <br/><sub>Movie detail with recommendations</sub>
     </td>
   </tr>
   <tr>
     <td width="50%">
-      <img src="docs/screenshots/05_filmler_sayfasi.png" alt="Filmler" width="100%"/>
-      <br/><sub>Filmler</sub>
+      <img src="resimler/03_film_detay_sayfasi.png" alt="Movie detail" width="100%"/>
+      <br/><sub>Movie detail</sub>
     </td>
     <td width="50%">
-      <img src="docs/screenshots/06_diziler_sayfasi.png" alt="Diziler" width="100%"/>
-      <br/><sub>Diziler</sub>
-    </td>
-  </tr>
-  <tr>
-    <td width="50%">
-      <img src="docs/screenshots/07_playlist_olusturma.png" alt="Playlist oluşturma" width="100%"/>
-      <br/><sub>Playlist oluşturma</sub>
-    </td>
-    <td width="50%">
-      <img src="docs/screenshots/08_film_detay_ilkbahar.png" alt="Film detay — İlkbahar" width="100%"/>
-      <br/><sub>Film detay — İlkbahar</sub>
+      <img src="resimler/04_canli_tv.png" alt="Live TV" width="100%"/>
+      <br/><sub>Live TV</sub>
     </td>
   </tr>
   <tr>
     <td width="50%">
-      <img src="docs/screenshots/09_playlistler_sayfasi.png" alt="Playlistler" width="100%"/>
-      <br/><sub>Playlistler</sub>
+      <img src="resimler/05_filmler_sayfasi.png" alt="Movies" width="100%"/>
+      <br/><sub>Movies</sub>
     </td>
     <td width="50%">
-      <img src="docs/screenshots/10_istatistikler_sayfasi.png" alt="İstatistikler" width="100%"/>
-      <br/><sub>İstatistikler</sub>
+      <img src="resimler/06_diziler_sayfasi.png" alt="Series" width="100%"/>
+      <br/><sub>Series</sub>
     </td>
   </tr>
   <tr>
     <td width="50%">
-      <img src="docs/screenshots/11_dizi_detay_bolumler.png" alt="Dizi detay — bölümler" width="100%"/>
-      <br/><sub>Dizi detay — bölümler</sub>
+      <img src="resimler/07_playlist_olusturma.png" alt="Create playlist" width="100%"/>
+      <br/><sub>Create playlist</sub>
     </td>
     <td width="50%">
-      <img src="docs/screenshots/12_dizi_detay_sayfasi.png" alt="Dizi detay" width="100%"/>
-      <br/><sub>Dizi detay</sub>
+      <img src="resimler/08_film_detay_ilkbahar.png" alt="Movie detail — Ilkbahar" width="100%"/>
+      <br/><sub>Movie detail — Ilkbahar</sub>
+    </td>
+  </tr>
+  <tr>
+    <td width="50%">
+      <img src="resimler/09_playlistler_sayfasi.png" alt="Playlists" width="100%"/>
+      <br/><sub>Playlists</sub>
+    </td>
+    <td width="50%">
+      <img src="resimler/10_istatistikler_sayfasi.png" alt="Statistics" width="100%"/>
+      <br/><sub>Statistics</sub>
+    </td>
+  </tr>
+  <tr>
+    <td width="50%">
+      <img src="resimler/11_dizi_detay_bolumler.png" alt="Series detail — episodes" width="100%"/>
+      <br/><sub>Series detail — episodes</sub>
+    </td>
+    <td width="50%">
+      <img src="resimler/12_dizi_detay_sayfasi.png" alt="Series detail" width="100%"/>
+      <br/><sub>Series detail</sub>
     </td>
   </tr>
   <tr>
     <td colspan="2" align="center">
-      <img src="docs/screenshots/13_dizi_bolum_puanlari.png" alt="Dizi bölüm puanları" width="50%"/>
-      <br/><sub>Dizi bölüm puanları</sub>
+      <img src="resimler/13_dizi_bolum_puanlari.png" alt="Episode ratings" width="50%"/>
+      <br/><sub>Episode ratings</sub>
     </td>
   </tr>
 </table>
+
 
 
 ---
