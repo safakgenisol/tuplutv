@@ -185,6 +185,12 @@ My email is in the app under Settings → About
 ---
 ## Legal Notes
 
+**IMDb Non-Commercial Datasets**  
+Ratings may be sourced from the IMDb `title.ratings` dataset at [datasets.imdbws.com](https://datasets.imdbws.com/).  
+**Information courtesy of IMDb (https://www.imdb.com). Used with permission.**  
+Dataset info: [developer.imdb.com/non-commercial-datasets](https://developer.imdb.com/non-commercial-datasets)  
+Terms: [imdb.com/conditions](https://www.imdb.com/conditions) — personal and non-commercial use only.
+
 ### TMDB
 The TMBD API is used to provide movie and TV show metadata
 This product uses the TMDB API but is not endorsed or certified by TMDB.
