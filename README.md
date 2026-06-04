@@ -92,7 +92,7 @@ Open the latest release and download the `tuplutv0.x.0.zip` file that matches th
 
 - ⚠️ macOS 26 tahoe minimum system requirements
   
--Supported Languages: Turkish, English, Spanish
+-Supported Languages: Turkish, English, Spanish, French
 
 ---
 
