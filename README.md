@@ -10,7 +10,6 @@
   </a>
 </p>
 Open the latest release and download the `tuplutv0.x.0.zip` file that matches the version shown there.
----
 
 ## Screenshots
 ⚠️ The films shown in the images were created using AI and serve as examples.
