@@ -1,7 +1,14 @@
 # tuplutv (beta)
 
 **A simple, fast, and modern IPTV experience for macOS.**
-
+<p>
+  <a href="https://github.com/safakgenisol/tuplutv/releases/latest">
+    <img src="https://img.shields.io/badge/Download-Latest%20Release-blue?style=for-the-badge&logo=github" alt="Download latest release">
+  </a>
+  <a href="https://github.com/safakgenisol/tuplutv">
+    <img src="https://img.shields.io/github/downloads/safakgenisol/tuplutv/latest/total?style=for-the-badge&label=Latest%20Downloads" alt="Latest release downloads">
+  </a>
+</p>
 ---
 
 ## Screenshots
