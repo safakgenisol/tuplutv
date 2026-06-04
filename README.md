@@ -9,7 +9,8 @@
     <img src="https://img.shields.io/github/downloads/safakgenisol/tuplutv/latest/total?style=for-the-badge&label=Latest%20Downloads" alt="Latest release downloads">
   </a>
 </p>
-> **Download:** Open the latest release and download the `tuplutv0.x.0.zip` file that matches the version shown there.
+> **Download:** 
+Open the latest release and download the `tuplutv0.x.0.zip` file that matches the version shown there.
 ---
 
 ## Screenshots
