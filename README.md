@@ -1,4 +1,4 @@
-# tuplutv (beta)
+# tuplutv
 
 **A simple, fast, and modern IPTV experience for macOS.**
 
