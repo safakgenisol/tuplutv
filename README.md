@@ -2,11 +2,7 @@
 
 **A simple, fast, and modern IPTV experience for macOS.**
 <p>
-  <a href="https://github.com/safakgenisol/tuplutv/releases/latest">
-    <img src="https://img.shields.io/badge/Download-Latest%20Release-blue?style=for-the-badge&logo=github" alt="Download latest release">
-  </a>
-  <a href="https://github.com/safakgenisol/tuplutv/releases">
-  <img src="https://img.shields.io/github/downloads/safakgenisol/tuplutv/total?style=for-the-badge&label=Total%20Downloads" alt="Total downloads">
+[![Download on the Mac App Store](https://toolbox.marketingtools.apple.com/api/badges/download-on-the-mac-app-store/black/en-us?size=250x83)](https://apps.apple.com/app/tuplutv/id6779977821)
 </a>
 </p>
 Open the latest release and download the `tuplutv0.x.0.zip` file that matches the version shown there.
