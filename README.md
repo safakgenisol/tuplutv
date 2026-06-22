@@ -92,8 +92,6 @@
 ## My Future Plans and Dreams
 -Get the app to a place everyone can love. That’s a very hard goal, but I built this app for everyone—matching what people want is my top priority.
 
--After an App Store release, bigger goals: a version that works end-to-end across the Apple ecosystem—Apple TV, Apple Watch, iPhone, and so on. For me that’s still a long way off—a big goal, or a dream
-
 
 
 ---
