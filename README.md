@@ -5,9 +5,7 @@
 [![Download on the Mac App Store](https://toolbox.marketingtools.apple.com/api/badges/download-on-the-mac-app-store/black/en-us?size=250x83)](https://apps.apple.com/app/tuplutv/id6779977821)
 
 ## Screenshots
-⚠️ The films shown in the images were created using AI and serve as examples.
-
-⚠️The current images may differ from those in the latest version of the app (version 0.5.0)
+⚠️The current images may differ from those in the latest version of the app (version 2.3.0)
 <p align="center">
   <img src="resimler/A simple homepage designed for y-Mac-2880x1800.png" />
 </p>
