@@ -15,7 +15,7 @@
       <img src="resimler/A simple homepage designed for y-Mac-2880x1800.png"width="100%"/>
     </td>
     <td width="50%">
-      <img src="resimler/Categories specially selected fo-Mac-2880x1800.png" width="100%"/>
+      <img src="resimler/A modern homepage-iPhone-1284x2778.png" width="100%"/>
     </td>
   </tr>
   <tr>
@@ -29,8 +29,7 @@
   </tr>
   <tr>
     <td width="50%">
-      <img src="resımler/05_filmler_sayfasi.png" alt="Movies" width="100%"/>
-      <br/><sub>Movies</sub>
+      <img src="resımler/Categories specially selected fo-Mac-2880x1800.png"  width="100%"/>
     </td>
     <td width="50%">
       <img src="resımler/06_diziler_sayfasi.png" alt="Series" width="100%"/>
