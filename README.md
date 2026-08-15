@@ -1,6 +1,6 @@
  tuplutv
 
-**A simple, fast, and modern IPTV experience for macOS.**
+**A simple, fast, and modern IPTV experience for Apple.**
 
 [![Download on the Mac App Store](https://toolbox.marketingtools.apple.com/api/badges/download-on-the-mac-app-store/black/en-us?size=250x83)](https://apps.apple.com/app/tuplutv/id6779977821)
 
