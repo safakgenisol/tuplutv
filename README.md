@@ -31,7 +31,7 @@
 - Xtream and M3U support
 - Extensive customization and appearance options
 - Curated movie and series categories
--Supported Languages: Turkish, English, Spanish, French, Arabic, Italian
+- Supported Languages: Turkish, English, Spanish, French, Arabic, Italian
 - Remote control mode for iPhone
 - Statistics dashboard
 - iCloud support
