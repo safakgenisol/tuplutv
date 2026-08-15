@@ -12,18 +12,15 @@
  <table>
   <tr>
     <td width="50%">
-      <img src="resımler/01_anasayfa.png" alt="Home" width="100%"/>
-      <br/><sub>Home</sub>
+      <img src="resimler/A simple homepage designed for y-Mac-2880x1800.png"width="100%"/>
     </td>
     <td width="50%">
-      <img src="resımler/02_film_detay_onerilerle.png" alt="Movie detail with recommendations" width="100%"/>
-      <br/><sub>Movie detail with recommendations</sub>
+      <img src="resimler/Categories specially selected fo-Mac-2880x1800.png" width="100%"/>
     </td>
   </tr>
   <tr>
     <td width="50%">
-      <img src="resımler/03_film_detay_sayfasi.png" alt="Movie detail" width="100%"/>
-      <br/><sub>Movie detail</sub>
+      <img src="resimler/Live TV has never looked this go-Mac-2880x1800.png"width="100%"/>
     </td>
     <td width="50%">
       <img src="resımler/04_canli_tv.png" alt="Live TV" width="100%"/>
