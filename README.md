@@ -24,103 +24,29 @@
   <img src="resimler/With a beautiful interface-iPhone-1284x2778.png" width="30%" />
 </p>
 
-
-
----
-
-- ⚠️ macOS 26 tahoe minimum system requirements
-  
--Supported Languages: Turkish, English, Spanish, French, Arabic, Italian
-
----
-
-## My Future Plans and Dreams
--Get the app to a place everyone can love. That’s a very hard goal, but I built this app for everyone—matching what people want is my top priority.
-
-
-
 ---
 ## Future
 
-### Playlists & sources
-- Add and manage multiple IPTV sources (M3U URL and Xtream API)
-- Organize sources with custom display names and emoji icons
-- Automatic catalog sync with configurable refresh intervals
-- On-disk catalog cache for faster startup and offline browsing
-- Support for multiple sources at once with per-source filtering
-
-### Home & browsing
-- Home screen with Movie of the Day, category shortcuts, and recently watched shelves
-- Dedicated Movies and Series libraries grouped by genre/category
-- TMDB-powered trending today shelves on the home page
-- Full-text search across live channels, movies, and series
-- Search scope filters and collapsible result sections
-- Custom category management — hide, reorder, and create your own groups
-- Cinematic media detail pages with backdrop art, cast, synopsis, and metadata
-- TMDB enrichment for posters, descriptions, and extra artwork
-- IMDb ratings on posters, detail screens, and statistics
-- Movie recommendations on detail pages
-- Series detail with season/episode lists, thumbnails, and per-episode ratings
-- Episode ratings heatmap — visual IMDb score grid across all seasons
-- Optional animated backdrop preview on detail pages
-
-### Live TV
-- Live channel browser with logos and now-playing info
-- Electronic Program Guide (EPG) for Xtream-compatible sources
-- Floating live TV remote panel with keyboard shortcuts
-- Channel picker and quick channel switching
-- Channel zapping visual effect (optional)
-- Jump from home or search directly into a live channel
-
-### Playback
-- Built-in player with native and VLC engine options
-- Smooth streaming playback for live TV, movies, and episodes
-- Fullscreen mode with cinematic header and stream info
-- Picture-in-Picture (PiP) support
-- Resume watch progress for movies and series episodes
-- Preferred subtitle and audio language selection
-- Customizable subtitle appearance (size, color, background)
-- Global volume control and audio output device selection
-- In-player episode panel for series binge-watching
-- Download and play offline from the detail screen or episode list
-
-### Personal library
-- Favorites for quick access to saved titles
-- Custom movie playlists — drag posters to build lists and play them back
-- Watched history tracking
-- Download manager for movies and series episodes
-- Offline mode — watch downloaded content without network access
-- Download queue with progress, cancel, and Finder integration
-
-### Statistics
-- Usage dashboard with time spent in app, movies, series, and live TV
-- Track opened-but-not-watched, completed movies, episodes, and series
-- Most-played movies and longest-watched live channels
-- Time-by-genre breakdown
-- Watched-by-IMDb-score chart
-- Filter stats by playlist source or view all sources combined
-
-### Appearance & settings
-- Clean, focused macOS interface built with SwiftUI
-- Light, dark, and system theme support
-- Dynamic detail page coloring from poster/backdrop art
-- Sidebar or bottom dock navigation layout
-- App language: English, Turkish, Spanish, and French
-- Cache management and storage overview
-- Built-in update checker
-
+- Modern and elegant interface
+- Xtream and M3U support
+- Extensive customization and appearance options
+- Curated movie and series categories
+-Supported Languages: Turkish, English, Spanish, French, Arabic, Italian
+- Remote control mode for iPhone
+- Statistics dashboard
+- iCloud support
+- OpenSubtitles support
+- HDR playback support
+- Background recording for live TV
+- Calendar and reminders
+- And more
+- ⚠️ macOS 26 tahoe minimum system requirements
+  
 ---
 ⚠️
 The app does not provide any movie or TV content.
 As the developer, I cannot and will not provide content sources.
 You need to add your own Xtream or M3U sources.
-
----
-
-## Important
--⚠️ Please send feedback to my email. It would help me most if you could include: your device details, screenshots from the app, and your feedback—but this isn’t a rule. Anyone can share thoughts however they like; it’s just easier for me to understand when it’s structured that way.
-
-My email is in the app under Settings → About
 
 ---
 ## Legal Notes
@@ -135,11 +61,20 @@ Terms: [imdb.com/conditions](https://www.imdb.com/conditions) — personal and n
 The TMBD API is used to provide movie and TV show metadata
 This product uses the TMDB API but is not endorsed or certified by TMDB.
 
-### VLC / VLCKit
+### mpv
 
-This app may use VLCKit/VLC components for video playback. VLC is a product of the VideoLAN project.
+This app may use mpv for video playback. mpv is a free, open source, and cross-platform media player.
 
-- VLC: [https://www.videolan.org/vlc/](https://www.videolan.org/vlc/)
-- VideoLAN: [https://www.videolan.org/](https://www.videolan.org/)
+- mpv: [https://mpv.io/](https://mpv.io/)
+- GitHub: [https://github.com/mpv-player/mpv](https://github.com/mpv-player/mpv)
 
 Usage is subject to the license terms of the related libraries.
+
+### OpenSubtitles
+
+This app may use the OpenSubtitles API to search and download subtitles. OpenSubtitles is a product of OpenSubtitles.org.
+
+- OpenSubtitles: [https://www.opensubtitles.com/](https://www.opensubtitles.com/)
+- OpenSubtitles.org: [https://www.opensubtitles.org/](https://www.opensubtitles.org/)
+
+Usage is subject to the license terms of the related services.
