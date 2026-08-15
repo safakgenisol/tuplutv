@@ -25,7 +25,7 @@
 </p>
 
 ---
-## Future
+## Features
 
 - Modern and elegant interface
 - Xtream and M3U support
