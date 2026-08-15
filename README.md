@@ -24,9 +24,6 @@
     </td>
   <tr>
     <td width="50%">
-      <img src="resimler/A simple homepage designed for y-Mac-2880x1800.png"  width="100%"/>
-    </td>
-    <td width="50%">
       <img src="resimler/Easy discovery with categories-iPhone-1284x2778.png" width="100%"/>
     </td>
   </tr>
