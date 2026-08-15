@@ -1,4 +1,4 @@
-# tuplutv
+ tuplutv
 
 **A simple, fast, and modern IPTV experience for macOS.**
 
@@ -8,63 +8,23 @@
 ⚠️ The films shown in the images were created using AI and serve as examples.
 
 ⚠️The current images may differ from those in the latest version of the app (version 0.5.0)
-<table>
- <table>
-  <tr>
-    <td width="50%">
-      <img src="resimler/A simple homepage designed for y-Mac-2880x1800.png"width="100%"/>
-    </td>
-    <td width="50%">
-      <img src="resimler/Categories specially selected fo-Mac-2880x1800.png" width="100%"/>
-    </td>
-  </tr>
-  <tr>
-    <td width="50%">
-      <img src="resimler/Live TV has never looked this go-Mac-2880x1800.png"width="100%"/>
-    </td>
-  <tr>
-    <td width="50%">
-      <img src="resimler/Easy discovery with categories-iPhone-1284x2778.png" width="100%"/>
-    </td>
-  </tr>
-  <tr>
-    <td width="50%">
-      <img src="resımler/07_playlist_olusturma.png" alt="Create playlist" width="100%"/>
-      <br/><sub>Create playlist</sub>
-    </td>
-    <td width="50%">
-      <img src="resımler/08_film_detay_ilkbahar.png" alt="Movie detail — Ilkbahar" width="100%"/>
-      <br/><sub>Movie detail — Ilkbahar</sub>
-    </td>
-  </tr>
-  <tr>
-    <td width="50%">
-      <img src="resımler/09_playlistler_sayfasi.png" alt="Playlists" width="100%"/>
-      <br/><sub>Playlists</sub>
-    </td>
-    <td width="50%">
-      <img src="resımler/10_istatistikler_sayfasi.png" alt="Statistics" width="100%"/>
-      <br/><sub>Statistics</sub>
-    </td>
-  </tr>
-  <tr>
-    <td width="50%">
-      <img src="resımler/11_dizi_detay_bolumler.png" alt="Series detail — episodes" width="100%"/>
-      <br/><sub>Series detail — episodes</sub>
-    </td>
-    <td width="50%">
-      <img src="resımler/12_dizi_detay_sayfasi.png" alt="Series detail" width="100%"/>
-      <br/><sub>Series detail</sub>
-    </td>
-  </tr>
-  <tr>
-    <td colspan="2" align="center">
-      <img src="resımler/13_dizi_bolum_puanlari.png" alt="Episode ratings" width="50%"/>
-      <br/><sub>Episode ratings</sub>
-    </td>
-  </tr>
-</table>
+<p align="center">
+  <img src="resimler/A simple homepage designed for y-Mac-2880x1800.png" />
+</p>
 
+<p align="center">
+  <img src="resimler/Categories specially selected fo-Mac-2880x1800.png" />
+</p>
+
+<p align="center">
+  <img src="resimler/Live TV has never looked this go-Mac-2880x1800.png" />
+</p>
+
+<p align="center">
+  <img src="resimler/A modern homepage-iPhone-1284x2778.png" width="30%" />
+  <img src="resimler/Easy discovery with categories-iPhone-1284x2778.png" width="30%" />
+  <img src="resimler/With a beautiful interface-iPhone-1284x2778.png" width="30%" />
+</p>
 
 
 
