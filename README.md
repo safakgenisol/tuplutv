@@ -15,25 +15,19 @@
       <img src="resimler/A simple homepage designed for y-Mac-2880x1800.png"width="100%"/>
     </td>
     <td width="50%">
-      <img src="resimler/A modern homepage-iPhone-1284x2778.png" width="100%"/>
+      <img src="resimler/Categories specially selected fo-Mac-2880x1800.png" width="100%"/>
     </td>
   </tr>
   <tr>
     <td width="50%">
       <img src="resimler/Live TV has never looked this go-Mac-2880x1800.png"width="100%"/>
     </td>
-    <td width="50%">
-      <img src="resımler/04_canli_tv.png" alt="Live TV" width="100%"/>
-      <br/><sub>Live TV</sub>
-    </td>
-  </tr>
   <tr>
     <td width="50%">
-      <img src="resımler/Categories specially selected fo-Mac-2880x1800.png"  width="100%"/>
+      <img src="resimler/A simple homepage designed for y-Mac-2880x1800.png"  width="100%"/>
     </td>
     <td width="50%">
-      <img src="resımler/06_diziler_sayfasi.png" alt="Series" width="100%"/>
-      <br/><sub>Series</sub>
+      <img src="resimler/Easy discovery with categories-iPhone-1284x2778.png" width="100%"/>
     </td>
   </tr>
   <tr>
